@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sandeep Chaudhary"
-resume_title:                   "Technical Lead Manager"
+resume_title:                   "Technical Lead Manager @ Google"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sachaudhary91@gmail.com"
